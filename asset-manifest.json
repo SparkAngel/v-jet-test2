@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/v-jet-test2/static/css/main.26033f8b.chunk.css",
+    "main.js": "/v-jet-test2/static/js/main.526a5384.chunk.js",
+    "main.js.map": "/v-jet-test2/static/js/main.526a5384.chunk.js.map",
+    "runtime~main.js": "/v-jet-test2/static/js/runtime~main.31f7a21c.js",
+    "runtime~main.js.map": "/v-jet-test2/static/js/runtime~main.31f7a21c.js.map",
+    "static/css/2.266e55a5.chunk.css": "/v-jet-test2/static/css/2.266e55a5.chunk.css",
+    "static/js/2.fe9bc890.chunk.js": "/v-jet-test2/static/js/2.fe9bc890.chunk.js",
+    "static/js/2.fe9bc890.chunk.js.map": "/v-jet-test2/static/js/2.fe9bc890.chunk.js.map",
+    "index.html": "/v-jet-test2/index.html",
+    "precache-manifest.91fd1f7921d681e74828040a15f9ae83.js": "/v-jet-test2/precache-manifest.91fd1f7921d681e74828040a15f9ae83.js",
+    "service-worker.js": "/v-jet-test2/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/v-jet-test2/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.26033f8b.chunk.css.map": "/v-jet-test2/static/css/main.26033f8b.chunk.css.map"
+  }
+}
